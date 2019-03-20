@@ -1,5 +1,7 @@
 # PDF text form filler
-iText5 console app to fill pdf text form from json 
+iText5 console app to fill pdf text form from json with utf-8 text (eg Cyrilic)
+
+Written to solve problem with invisible cyrilic text.
 
 based upon https://itextpdf.com/en/resources/examples/itext-5/filling-out-forms
 
