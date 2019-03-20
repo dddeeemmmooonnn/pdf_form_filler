@@ -12,3 +12,8 @@ java -jar pdf_from_filler.jar form.pdf json.json FreeSans.ttf filled.pdf [font s
 or change source as you need
 
 json example in json.json
+
+---
+ps
+
+Was not tested anywhere except my project, also works with checkboxes (value must be from your field options, google it)
